@@ -14,8 +14,8 @@
     "leecher"
   ],
   "repository": "https://github.com/F36/4TorrentBot/",
-  "success_url": "https://t.me/moviezonlysupport",
-  "website": "https://github.com/prgofficial/TorrentLeech-GDriVe",
+  "success_url": "https://t.me/torrentmir",
+  "website": "https://github.com/F36/4TorrentBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
